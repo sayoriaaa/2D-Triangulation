@@ -26,6 +26,8 @@ pip install jupyterlab pythreejs ipyvtklink panel
 
 #### 复现[Computing Dirichlet tessellations](https://academic.oup.com/comjnl/article/24/2/162/338193)的三角剖分算法：
 
+- 动画![](D:\准备毕设\毕设\notebook_tetgen\imgs\triangluation.gif)
+
 - 中间步：
 
 <img src="imgs\tri_m.JPG" style="zoom:50%;" />
